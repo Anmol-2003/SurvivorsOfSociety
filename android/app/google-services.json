@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054106737927",
+    "project_id": "smartindiahackathon-25234",
+    "storage_bucket": "smartindiahackathon-25234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054106737927:android:1ccd861c2adb7f0718b9a2",
+        "android_client_info": {
+          "package_name": "com.example.sih_sos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Zhqa7WZP7aKQAveHudk9Oz6eWNiTr_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
